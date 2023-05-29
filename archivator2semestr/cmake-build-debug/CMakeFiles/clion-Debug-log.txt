@@ -1,0 +1,4 @@
+C:\Users\krist\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/krist/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\krist\CLionProjects\archivator2semestr -B C:\Users\krist\CLionProjects\archivator2semestr\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/krist/CLionProjects/archivator2semestr/cmake-build-debug

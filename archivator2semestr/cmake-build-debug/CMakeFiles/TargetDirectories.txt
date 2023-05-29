@@ -1,0 +1,3 @@
+C:/Users/krist/CLionProjects/archivator2semestr/cmake-build-debug/CMakeFiles/archivator2semestr.dir
+C:/Users/krist/CLionProjects/archivator2semestr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krist/CLionProjects/archivator2semestr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
